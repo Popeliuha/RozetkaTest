@@ -1,0 +1,64 @@
+{
+  "uuid": "60595ecf-5c8c-4801-b516-15a82f20db04-tr-0-1002",
+  "historyId": "RozetkaTesting.Tests.Tests.CartTest",
+  "fullName": "RozetkaTesting.Tests.Tests.CartTest",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP"
+    },
+    {
+      "name": "package",
+      "value": "RozetkaTesting.Tests"
+    },
+    {
+      "name": "testMethod",
+      "value": "CartTest"
+    },
+    {
+      "name": "testClass",
+      "value": "Tests"
+    }
+  ],
+  "links": [],
+  "name": "CartTest",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "CartTest"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "CartTest",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "7670d6a6641941b2895b4693a34b2076-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1683316881512,
+      "stop": 1683316896191
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1683316881511,
+  "stop": 1683316896195
+}

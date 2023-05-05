@@ -1,0 +1,44 @@
+{
+  "uuid": "2c88cfd4-5a6a-48a9-b19b-0bb48dde59bd-tc-0-1000",
+  "name": "RozetkaTesting.Tests.Tests.SearchTest",
+  "children": [
+    "dfe79ad8-cf1a-4e10-a6ce-83b5788380c6-tr-0-1003"
+  ],
+  "befores": [
+    {
+      "name": "SetUpTest",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1683316921827,
+      "stop": 1683316921827
+    }
+  ],
+  "afters": [
+    {
+      "name": "TearDown",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1683316921827,
+      "stop": 1683316921827
+    }
+  ],
+  "links": [],
+  "start": 1683316915216,
+  "stop": 1683316921828
+}

@@ -1,0 +1,64 @@
+{
+  "uuid": "dfe79ad8-cf1a-4e10-a6ce-83b5788380c6-tr-0-1003",
+  "historyId": "RozetkaTesting.Tests.Tests.SearchTest",
+  "fullName": "RozetkaTesting.Tests.Tests.SearchTest",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP"
+    },
+    {
+      "name": "package",
+      "value": "RozetkaTesting.Tests"
+    },
+    {
+      "name": "testMethod",
+      "value": "SearchTest"
+    },
+    {
+      "name": "testClass",
+      "value": "Tests"
+    }
+  ],
+  "links": [],
+  "name": "SearchTest",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "SearchTest"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "SearchTest",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "e155915b67c74671b7316ee027ec547f-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1683316915216,
+      "stop": 1683316921827
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1683316915216,
+  "stop": 1683316921827
+}

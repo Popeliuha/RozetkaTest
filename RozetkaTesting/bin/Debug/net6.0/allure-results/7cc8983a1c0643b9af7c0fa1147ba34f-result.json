@@ -1,0 +1,67 @@
+{
+  "uuid": "24a8a402-31be-40cf-ba1e-e00905ffdef9-tr-0-1004",
+  "historyId": "RozetkaTesting.Tests.Tests.OrderByPriceTest",
+  "fullName": "RozetkaTesting.Tests.Tests.OrderByPriceTest",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP"
+    },
+    {
+      "name": "package",
+      "value": "RozetkaTesting.Tests"
+    },
+    {
+      "name": "testMethod",
+      "value": "OrderByPriceTest"
+    },
+    {
+      "name": "testClass",
+      "value": "Tests"
+    }
+  ],
+  "links": [],
+  "name": "OrderByPriceTest",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "OpenQA.Selenium.StaleElementReferenceException : stale element reference: stale element not found\n  (Session info: chrome=113.0.5672.64)",
+    "trace": "   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)\r\n   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.WebElement.FindElements(String mechanism, String value)\r\n   at OpenQA.Selenium.By.<.ctor>b__11_1(ISearchContext context)\r\n   at OpenQA.Selenium.By.FindElements(ISearchContext context)\r\n   at OpenQA.Selenium.WebElement.FindElements(By by)\r\n   at OpenQA.Selenium.Support.UI.SelectElement.SelectByValue(String value)\r\n   at RozetkaTesting.PageObjects.SearchResultsPage.SelectDropdownValueToOrderByPrice() in C:\\Users\\popel\\source\\repos\\RozetkaTesting\\RozetkaTesting.PageObjects\\SearchResultsPage.cs:line 107\r\n   at RozetkaTesting.Tests.Tests.OrderByPriceTest() in C:\\Users\\popel\\source\\repos\\RozetkaTesting\\RozetkaTesting\\Tests.cs:line 126"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "OrderByPriceTest",
+      "status": "failed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "OpenQA.Selenium.StaleElementReferenceException : stale element reference: stale element not found\n  (Session info: chrome=113.0.5672.64)",
+        "trace": "   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)\r\n   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.WebElement.FindElements(String mechanism, String value)\r\n   at OpenQA.Selenium.By.<.ctor>b__11_1(ISearchContext context)\r\n   at OpenQA.Selenium.By.FindElements(ISearchContext context)\r\n   at OpenQA.Selenium.WebElement.FindElements(By by)\r\n   at OpenQA.Selenium.Support.UI.SelectElement.SelectByValue(String value)\r\n   at RozetkaTesting.PageObjects.SearchResultsPage.SelectDropdownValueToOrderByPrice() in C:\\Users\\popel\\source\\repos\\RozetkaTesting\\RozetkaTesting.PageObjects\\SearchResultsPage.cs:line 107\r\n   at RozetkaTesting.Tests.Tests.OrderByPriceTest() in C:\\Users\\popel\\source\\repos\\RozetkaTesting\\RozetkaTesting\\Tests.cs:line 126"
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "5bfcacb0a2fd46ae8d2c4650a4deb334-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1683316906915,
+      "stop": 1683316915214
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1683316906915,
+  "stop": 1683316915214
+}

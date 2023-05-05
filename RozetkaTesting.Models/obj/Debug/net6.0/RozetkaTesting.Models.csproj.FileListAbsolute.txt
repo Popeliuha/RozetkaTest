@@ -1,0 +1,12 @@
+C:\Users\popel\source\repos\RozetkaTesting\RozetkaTesting.Models\bin\Debug\net6.0\RozetkaTesting.Models.deps.json
+C:\Users\popel\source\repos\RozetkaTesting\RozetkaTesting.Models\bin\Debug\net6.0\RozetkaTesting.Models.dll
+C:\Users\popel\source\repos\RozetkaTesting\RozetkaTesting.Models\bin\Debug\net6.0\RozetkaTesting.Models.pdb
+C:\Users\popel\source\repos\RozetkaTesting\RozetkaTesting.Models\obj\Debug\net6.0\RozetkaTesting.Models.csproj.AssemblyReference.cache
+C:\Users\popel\source\repos\RozetkaTesting\RozetkaTesting.Models\obj\Debug\net6.0\RozetkaTesting.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\popel\source\repos\RozetkaTesting\RozetkaTesting.Models\obj\Debug\net6.0\RozetkaTesting.Models.AssemblyInfoInputs.cache
+C:\Users\popel\source\repos\RozetkaTesting\RozetkaTesting.Models\obj\Debug\net6.0\RozetkaTesting.Models.AssemblyInfo.cs
+C:\Users\popel\source\repos\RozetkaTesting\RozetkaTesting.Models\obj\Debug\net6.0\RozetkaTesting.Models.csproj.CoreCompileInputs.cache
+C:\Users\popel\source\repos\RozetkaTesting\RozetkaTesting.Models\obj\Debug\net6.0\RozetkaTesting.Models.dll
+C:\Users\popel\source\repos\RozetkaTesting\RozetkaTesting.Models\obj\Debug\net6.0\refint\RozetkaTesting.Models.dll
+C:\Users\popel\source\repos\RozetkaTesting\RozetkaTesting.Models\obj\Debug\net6.0\RozetkaTesting.Models.pdb
+C:\Users\popel\source\repos\RozetkaTesting\RozetkaTesting.Models\obj\Debug\net6.0\ref\RozetkaTesting.Models.dll

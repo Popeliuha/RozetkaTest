@@ -1,0 +1,64 @@
+{
+  "uuid": "ddec67db-0677-4006-9a21-7850c28c819d-tr-0-1001",
+  "historyId": "RozetkaTesting.Tests.Tests.FilterTest",
+  "fullName": "RozetkaTesting.Tests.Tests.FilterTest",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP"
+    },
+    {
+      "name": "package",
+      "value": "RozetkaTesting.Tests"
+    },
+    {
+      "name": "testMethod",
+      "value": "FilterTest"
+    },
+    {
+      "name": "testClass",
+      "value": "Tests"
+    }
+  ],
+  "links": [],
+  "name": "FilterTest",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "FilterTest"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "FilterTest",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "9799234d9d344147960bb028de18744d-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1683316896229,
+      "stop": 1683316906912
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1683316896229,
+  "stop": 1683316906912
+}
